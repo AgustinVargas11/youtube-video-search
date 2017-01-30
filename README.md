@@ -16,4 +16,4 @@ After obtaining your API KEY, paste it in index.js
 
 ```
 
-Run the project using the command ###npm start###, then visit ###http://localhost:8080 in your browser###
+Run the project using the command **npm start**, then visit **http://localhost:8080** in your browser.
